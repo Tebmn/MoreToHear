@@ -1,0 +1,24 @@
+ {
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "TimeLoopRing",
+	"Props": 
+	{
+		"signals": 
+		[
+			{
+				"audio": "OW_NM_BlackHole_Lp",
+				"name": "Emission",
+				"frequency": "WarpCore",
+
+				"parentPath": "Interactibles_TimeLoopRing_Hidden/Prefab_NOM_WarpReceiver/Props_NOM_WarpCoreWhite",
+				"isRelativeToParent": true,
+				"position": 
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,22 @@
+ {
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "giants_deep",
+	"Props": 
+	{
+		"signals": 
+		[
+			{
+				"audio": "MemoryUplink_LP",
+				"name": "Probe Statue",
+				"frequency": "Statue",
+				
+				"position": 
+				{
+					"x": -27,
+					"y": -66.7,
+					"z": -37
+				}
+			}
+		]
+	}
+}

@@ -1,19 +1,23 @@
  {
 	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name" : "orbital_probe_cannon",
-	"Props": {
-		"signals": [
+	"Props": 
+	{
+		"signals": 
+		[
 			{
-				"audio": "OW_NM_WhiteHoleAmbienceL",
+				"audio": "OW_TH_Campfire_loop_01",
+				"name": "Probe",
+				"frequency": "Nomai Radio",
+
 				"parentPath": "NomaiProbe_Body",
 				"isRelativeToParent": true,
-				"position": {
+				"position": 
+				{
 					"x": 0,
 					"y": 0,
 					"z": 0
-				},
-				"name": "Probe",
-				"frequency": "Nomai Radio"
+				}
 			}
 		]
 	}

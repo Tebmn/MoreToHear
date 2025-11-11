@@ -1,0 +1,92 @@
+ {
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "cave_twin",
+	"Props": 
+	{
+		"signals": 
+		[
+			{
+				"audio": "OW_NM_BlackHole_Lp",
+				"name": "Emission",
+				"frequency": "WarpCore",
+
+				"parentPath": "Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthSurface/Sector_WarpReceiver/Interactables_WarpReceiver/Prefab_NOM_WarpReceiver/Props_NOM_WarpCoreWhite/",
+				"isRelativeToParent": true,
+				"position": 
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			},
+			{
+				"audio": "OW_NM_BlackHole_Lp",
+				"name": "Emission",
+				"frequency": "WarpCore",
+
+				"position": 
+				{
+					"x": 12.9,
+					"y": -65,
+					"z": -89
+				}
+			},
+			{
+				"audio": "OW_NM_BlackHole_Lp",
+				"name": "Absorption",
+				"frequency": "WarpCore",
+
+				"parentPath": "Sector_CaveTwin/Sector_NorthHemisphere/Sector_NorthSurface/Sector_TimeLoopExperiment/WarpCoreWallSockets/WarpCoreSocket (1)/Props_NOM_WarpCoreBlack (2)",
+				"isRelativeToParent": true,
+				"position": 
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			},
+			{
+				"audio": "OW_NM_BlackHole_Lp",
+				"name": "Emission",
+				"frequency": "WarpCore",
+
+				"parentPath": "Sector_CaveTwin/Sector_NorthHemisphere/Sector_NorthSurface/Sector_TimeLoopExperiment/WarpCoreWallSockets/WarpCoreSocket (2)/Props_NOM_WarpCoreWhite (1)",
+				"isRelativeToParent": true,
+				"position": 
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			},
+			{
+				"audio": "OW_NM_BlackHole_Lp",
+				"name": "Emission",
+				"frequency": "WarpCore",
+
+				"parentPath": "Sector_CaveTwin/Sector_NorthHemisphere/Sector_NorthSurface/Sector_TimeLoopExperiment/WarpCoreWallSockets/WarpCoreSocket (4)/Props_NOM_WarpCoreWhite (1)",
+				"isRelativeToParent": true,
+				"position": 
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			},
+			{
+				"audio": "OW_NM_BlackHole_Lp",
+				"name": "Absorption",
+				"frequency": "WarpCore",
+
+				"parentPath": "Sector_CaveTwin/Sector_NorthHemisphere/Sector_NorthSurface/Sector_TimeLoopExperiment/WarpCoreWallSockets/WarpCoreSocket (5)/Props_NOM_WarpCoreBlack (2)",
+				"isRelativeToParent": true,
+				"position": 
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			}
+		]
+	}
+}

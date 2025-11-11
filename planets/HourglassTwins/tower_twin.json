@@ -1,0 +1,108 @@
+ {
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "tower_twin",
+	"Props": 
+	{
+		"signals": 
+		[
+			{
+				"audio": "OW_NM_WhiteHoleAmbienceL",
+				"name": "LOOP_ERROR",
+				"frequency": "WarpCore",
+
+				"parentPath": "Sector_TowerTwin/Sector_TimeLoopInterior/Interactables_TimeLoopInterior/WarpCoreSocket/Prefab_NOM_WarpCoreVessel/Props_NOM_WarpCore_Advanced",
+				"isRelativeToParent": true,
+				"position": 
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			},
+			{
+				"audio": "OW_NM_BlackHole_Lp",
+				"name": "Absorption",
+				"frequency": "WarpCore",
+
+				"parentPath": "Sector_TowerTwin/Sector_Tower_HGT/Interactables_Tower_HGT/Interactables_Tower_TT/Prefab_NOM_WarpTransmitter (1)/Props_NOM_WarpCoreBlack",
+				"isRelativeToParent": true,
+				"position": 
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			},
+			{
+				"audio": "OW_NM_BlackHole_Lp",
+				"name": "Absorption",
+				"frequency": "WarpCore",
+
+				"parentPath": "Sector_TowerTwin/Sector_Tower_HGT/Interactables_Tower_HGT/Interactables_Tower_CT/Prefab_NOM_WarpTransmitter/Props_NOM_WarpCoreBlack",
+				"isRelativeToParent": true,
+				"position": 
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			},
+			{
+				"audio": "OW_NM_BlackHole_Lp",
+				"name": "Absorption",
+				"frequency": "WarpCore",
+
+				"parentPath": "Sector_TowerTwin/Sector_Tower_SS/Interactables_Tower_SS/Tower_SS_VisibleFrom_TowerTwin/Prefab_NOM_WarpTransmitter/Props_NOM_WarpCoreBlack",
+				"isRelativeToParent": true,
+				"position": 
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			},
+			{
+				"audio": "OW_NM_BlackHole_Lp",
+				"name": "Absorption",
+				"frequency": "WarpCore",
+
+				"parentPath": "Sector_TowerTwin/Sector_Tower_TH/Interactables_Tower_TH/Prefab_NOM_WarpTransmitter (2)/Props_NOM_WarpCoreBlack",
+				"isRelativeToParent": true,
+				"position": 
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			},
+			{
+				"audio": "OW_NM_BlackHole_Lp",
+				"name": "Absorption",
+				"frequency": "WarpCore",
+
+				"parentPath": "Sector_TowerTwin/Sector_Tower_GD/Interactables_Tower_GD/Tower_GD_VisibleFrom_TowerTwin/Prefab_NOM_WarpTransmitter (4)/Props_NOM_WarpCoreBlack",
+				"isRelativeToParent": true,
+				"position": 
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			},
+			{
+				"audio": "OW_NM_BlackHole_Lp",
+				"name": "Absorption",
+				"frequency": "WarpCore",
+
+				"parentPath": "Sector_TowerTwin/Sector_Tower_BH/Interactables_Tower_BH/Prefab_NOM_WarpTransmitter (4)/Props_NOM_WarpCoreBlack",
+				"isRelativeToParent": true,
+				"position": 
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,38 @@
+ {
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "SunStation",
+	"Props": 
+	{
+		"signals": 
+		[
+			{
+				"audio": "OW_NM_SadTheme_older",
+				"name": "Sun Station",
+				"frequency": "Nomai Radio",
+
+				"parentPath": "Sector_SunStation/Geometry_SunStation/SunStation_ControlModule_Geo/Structure_NOM_SunStation_ControlINT/CONTROL_INT_COLLIDE",				
+				"isRelativeToParent": true,
+				"position": 
+				{
+					"x": 95.92724,
+					"y": -45.96836,
+					"z": 16.52695
+				}
+			},
+			{
+				"audio": "OW_NM_BlackHole_Lp",
+				"name": "Emission",
+				"frequency": "WarpCore",
+
+				"parentPath": "Sector_SunStation/Sector_WarpModule/Interactables_WarpModule/Prefab_NOM_WarpReceiver/Props_NOM_WarpCoreWhite",				
+				"isRelativeToParent": true,
+				"position": 
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			}
+		]
+	}
+}

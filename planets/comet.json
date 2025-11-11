@@ -1,0 +1,38 @@
+ {
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "comet",
+	"Props": 
+	{
+		"signals": 
+		[
+			{
+				"audio": "OW_NM_BlackHole_Lp",
+				"name": "Absorption",
+				"frequency": "WarpCore",
+
+				"parentPath": "Prefab_NOM_Shuttle/Shuttle_Body",				
+				"isRelativeToParent": true,
+				"position": 
+				{
+					"x": 0.01762151,
+					"y": 16.43221,
+					"z": 2.40285
+				}
+			},
+			{
+				"audio": "NomaiRecorderAmbient_LP",
+				"name": "Comet Shuttle",
+				"frequency": "Nomai Radio",
+
+				"parentPath": "Prefab_NOM_Shuttle/Shuttle_Body",
+				"isRelativeToParent": true,
+				"position": 
+				{
+					"x": -0.01157856,
+					"y": 21.91339,
+					"z": -2.248109
+				}
+			}
+		]
+	}
+}
