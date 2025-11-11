@@ -2,7 +2,6 @@
 
 Adds several new Signals and Frequencies to find and listen to throughout the solar system!
 
-
 CHANGELOG (spoilers):
 
 V1.0.0
@@ -17,12 +16,9 @@ Added a new signal (Sun Station) to the Sun Station (Nomai Radio), Added new sig
 
 Added new signals (Museusm, Island, & Probe Statue) and frequency (Nomai Statue) to the Activated Nomai Statues
 
-
 V0.1.0
 
 Added a new signal (Probe) and frequency (Nomai Radio) to the Nomai Probe 
-
-
 
 PLANNED UPDATES:
 
