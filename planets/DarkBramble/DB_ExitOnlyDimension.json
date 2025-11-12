@@ -6,10 +6,11 @@
 		"signals": 
 		[
 			{
-				"audio": "Fig_Backer_Sat_Audio_V3",
+				"audio": "audio/elsinore.mp3",
 				"name": "UNKNOWN2",
 				"frequency": "EGG2",
 				"identificationRadius": 0,
+				"onlyAudibleToScope": false,
 
 				"parentPath": "Sector_ExitOnlyDimension/Interactables_ExitOnlyDimension/SeedWarp_ToElsinore",
 				"isRelativeToParent": true,
