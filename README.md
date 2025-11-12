@@ -16,7 +16,7 @@ Added a new signal (Absorption) to all Black Hole cores (Anti-Graviton Flux),
 
 Added a new signal (Sun Station) to the Sun Station (Nomai Radio), Added new signals (Moon & Comet Shuttle) to the Nomai Shuttles (Nomai Radio), 
 
-Added new signals (Museusm, Island, & Probe Statue) and frequency (Nomai Statue) to the Activated Nomai Statues
+Added new signals (Museum, Island, & Probe Statue) and frequency (Nomai Statue) to the Activated Nomai Statues
 
 V0.1.0
 
