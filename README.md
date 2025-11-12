@@ -1,6 +1,8 @@
 # More To Hear
 
-Adds several new Signals and Frequencies to find and listen to throughout the solar system!
+Adds several new Signals and Frequencies to find and listen to acrosss the solar system!
+
+Should provie a non-intruve, lore-friendly expereince. Does not alter or add any ship logs
 
 ![alt text](tebmn.moretohear.thumbnail.jpg)
 
@@ -32,10 +34,20 @@ Added a new signal (Probe) and frequency (Nomai Radio) to the Nomai Probe
 
 # PLANNED UPDATES:
 
+-Add signals to the Ash Twin masks on the Nomai Statues channel
+
+-Add a signal to the vessel once its been reactivated
+
+-Add a signal to the Eye of the Universe which can be heard from the Quantum Moon
+
+-Add signals to Solanum and her corpses
+
+-Add signals to the Stranger
+
+-Gneiss banjo?
+
 -Give more of the signals bespoke statistics for their traits, such as detection and identification radiuses
 
 -Rework Graviton Flux channel (it feels really cluttered)
-
--Add signals to the Ash Twin masks on the Nomai Statues channel
 
 -...& more!
