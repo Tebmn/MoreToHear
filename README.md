@@ -4,7 +4,9 @@
 
 Should provide a non-intrusive, lore-friendly experience. Does not alter or add any ship logs
 
-This mod re implements content added by both Signals+ and BackersSignal among other things, and would likely create a confusing experience if used together. 
+This mod re implements content added by both [Signals+](https://outerwildsmods.com/mods/signals/) and [Backers satellite signal](https://outerwildsmods.com/mods/backerssatellitesignal/) among other things, and will likely create a confusing experience if used together. 
+
+Made in spite of xen-42 and the vastly inferior mod [Signals+](https://outerwildsmods.com/mods/signals/) which you definitely shouldn't check out as well.
 
 Open to suggestions and requests.
 
