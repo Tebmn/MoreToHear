@@ -4,7 +4,7 @@ Adds several new Signals and Frequencies to find and listen to throughout the so
 
 ![alt text](tebmn.moretohear.thumbnail.jpg)
 
-CHANGELOG (spoilers):
+# CHANGELOG (spoilers):
 
 V1.1.0
 
@@ -30,7 +30,7 @@ V0.1.0
 
 Added a new signal (Probe) and frequency (Nomai Radio) to the Nomai Probe 
 
-PLANNED UPDATES:
+# PLANNED UPDATES:
 
 -Give more of the signals bespoke statistics for their traits, such as detection and identification radiuses
 
