@@ -6,6 +6,12 @@ Adds several new Signals and Frequencies to find and listen to throughout the so
 
 CHANGELOG (spoilers):
 
+V1.1.0
+
+Added a new signal (???) and frequency (???) to the FIG Backer Satellite
+
+Added a new Signal (unknown) and frequency (unknown) to the Elsinore Bramble Seed (though, it cannot be identified)
+
 V1.0.0
 
 Added a new signal (LOOP_ERROR) and frequency (Anti-Graviton Flux) to the Advanced Warp Core, 
@@ -31,7 +37,5 @@ PLANNED UPDATES:
 -Rework Graviton Flux channel (it feels really cluttered)
 
 -Add signals to the Ash Twin masks on the Nomai Statues channel
-
--Signals for the easter eggs (Fig backer satellite & Elsinore Room)
 
 -...& more!

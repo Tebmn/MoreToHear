@@ -1,0 +1,22 @@
+ {
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "BackerSatellite",
+	"Props": 
+	{
+		"signals": 
+		[
+			{
+				"audio": "Fig_Backer_Sat_Audio_V3",
+				"name": "???",
+				"frequency": "???",
+
+				"position": 
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			}
+		]
+	}
+}
