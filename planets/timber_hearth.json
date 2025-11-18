@@ -7,8 +7,12 @@
 		[
 			{
 				"audio": "OW_NM_BlackHole_Lp",
-				"name": "Emission",
+				"name": "White Core",
 				"frequency": "WarpCore",
+
+				"volume":0.1,
+				"detectionRadius": 10,
+				"identificationRadius": 5,
 
 				"parentPath": "Sector_TH/Sector_NomaiCrater/Interactables_NomaiCrater/Prefab_NOM_WarpReceiver/Props_NOM_WarpCoreWhite",
 				"isRelativeToParent": true,
@@ -24,7 +28,10 @@
 				"name": "Museum Statue",
 				"frequency": "Statue",
 			
-				
+				"volume":0.16,
+				"detectionRadius": 5,
+				"identificationRadius": 5,
+
 				"parentPath": "Sector_TH/Sector_Village/Sector_Observatory/Interactables_Observatory/NomaiStatueExhibit/NomaiHeadStatue/Props_NOM_StatueHead/Statue_Eyes",
 				"isRelativeToParent": true,
 				"position": 

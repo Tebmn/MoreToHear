@@ -1,6 +1,7 @@
  {
 	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name" : "BackerSatellite",
+	"removeChildren": ["Sector_BackerSatellite/Video_BackerSatellite/VideoPlayer_Fig_Backer/VideoPlayer_AudioSource"],
 	"Props": 
 	{
 		"signals": 
@@ -10,11 +11,19 @@
 				"name": "???",
 				"frequency": "???",
 
+				"volume":1,
+				"detectionRadius": 1000,
+				"identificationRadius": 1,
+
+				"onlyAudibleToScope": false,
+				"minDistance": 10,
+				"maxDistance": 50,
+				
 				"position": 
 				{
-					"x": 0,
-					"y": 0,
-					"z": 0
+					"x": -0.2119736,
+					"y": 0.5059021,
+					"z": 1.500921
 				}
 			}
 		]

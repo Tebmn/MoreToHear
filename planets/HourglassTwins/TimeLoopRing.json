@@ -6,10 +6,68 @@
 		"signals": 
 		[
 			{
+				"audio": "MemoryUplink_LP",
+				"name": "Ash Twin Mask",
+				"frequency": "Statue",
+
+				"volume":0.16,
+				"detectionRadius": 5,
+				"identificationRadius": 5,
+				
+				"parentPath": "Interactibles_TimeLoopRing/MaskPlatform/Props_NOM_Monolith_group/BatchedGroup/BatchedMeshColliders_0",
+				"isRelativeToParent": false,
+				"position": 
+				{
+					"x": 23.15749,
+					"y": -6.039479,
+					"z": -4.867855
+				}
+			},
+			{
+				"audio": "MemoryUplink_LP",
+				"name": "Ash Twin Mask",
+				"frequency": "Statue",
+
+				"volume":0.16,
+				"detectionRadius": 5,
+				"identificationRadius": 5,
+				
+				"parentPath": "Interactibles_TimeLoopRing/MaskPlatform/Props_NOM_Monolith_group/BatchedGroup/BatchedMeshColliders_0",
+				"isRelativeToParent": false,
+				"position": 
+				{
+					"x": 23.15982,
+					"y": 2.47438,
+					"z": -7.333293
+				}
+			},
+			{
+				"audio": "MemoryUplink_LP",
+				"name": "Ash Twin Mask",
+				"frequency": "Statue",
+
+				"volume":0.16,
+				"detectionRadius": 5,
+				"identificationRadius": 5,
+				
+				"parentPath": "Interactibles_TimeLoopRing/MaskPlatform/Props_NOM_Monolith_group/BatchedGroup/BatchedMeshColliders_0",
+				"isRelativeToParent": false,
+				"position": 
+				{
+					"x": 23.14581,
+					"y": 2.149688,
+					"z": 7.40048
+				}
+			},
+			{
 				"audio": "OW_NM_BlackHole_Lp",
-				"name": "Emission",
+				"name": "White Core",
 				"frequency": "WarpCore",
 
+				"volume":0.1,
+				"detectionRadius": 10,
+				"identificationRadius": 5,
+				
 				"parentPath": "Interactibles_TimeLoopRing_Hidden/Prefab_NOM_WarpReceiver/Props_NOM_WarpCoreWhite",
 				"isRelativeToParent": true,
 				"position": 

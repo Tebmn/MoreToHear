@@ -9,8 +9,13 @@
 				"audio": "audio/elsinore.mp3",
 				"name": "UNKNOWN2",
 				"frequency": "EGG2",
+
+				"detectionRadius": 10000,
 				"identificationRadius": 0,
+				
 				"onlyAudibleToScope": false,
+				"minDistance": 10,
+				"maxDistance": 100,
 
 				"parentPath": "Sector_ExitOnlyDimension/Interactables_ExitOnlyDimension/SeedWarp_ToElsinore",
 				"isRelativeToParent": true,

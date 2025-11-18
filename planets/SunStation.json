@@ -10,8 +10,11 @@
 				"name": "Sun Station",
 				"frequency": "Nomai Radio",
 
+				"detectionRadius": 25,
+				"identificationRadius": 6,
+				
 				"parentPath": "Sector_SunStation/Geometry_SunStation/SunStation_ControlModule_Geo/Structure_NOM_SunStation_ControlINT/CONTROL_INT_COLLIDE",				
-				"isRelativeToParent": true,
+				"isRelativeToParent": false,
 				"position": 
 				{
 					"x": 95.92724,
@@ -21,8 +24,12 @@
 			},
 			{
 				"audio": "OW_NM_BlackHole_Lp",
-				"name": "Emission",
+				"name": "White Core",
 				"frequency": "WarpCore",
+				
+				"volume":0.1,
+				"detectionRadius": 10,
+				"identificationRadius": 5,
 
 				"parentPath": "Sector_SunStation/Sector_WarpModule/Interactables_WarpModule/Prefab_NOM_WarpReceiver/Props_NOM_WarpCoreWhite",				
 				"isRelativeToParent": true,

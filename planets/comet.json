@@ -6,24 +6,13 @@
 		"signals": 
 		[
 			{
-				"audio": "OW_NM_BlackHole_Lp",
-				"name": "Absorption",
-				"frequency": "WarpCore",
-
-				"parentPath": "Prefab_NOM_Shuttle/Shuttle_Body",				
-				"isRelativeToParent": true,
-				"position": 
-				{
-					"x": 0.01762151,
-					"y": 16.43221,
-					"z": 2.40285
-				}
-			},
-			{
 				"audio": "NomaiRecorderAmbient_LP",
 				"name": "Comet Shuttle",
 				"frequency": "Nomai Radio",
 
+				"detectionRadius": 100,
+				"identificationRadius": 1,
+				
 				"parentPath": "Prefab_NOM_Shuttle/Shuttle_Body",
 				"isRelativeToParent": true,
 				"position": 

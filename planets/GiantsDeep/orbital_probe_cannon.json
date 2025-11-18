@@ -10,6 +10,10 @@
 				"name": "Probe",
 				"frequency": "Nomai Radio",
 
+				"volume":1,
+				"detectionRadius": 1000,
+				"identificationRadius": 30,
+				
 				"parentPath": "NomaiProbe_Body",
 				"isRelativeToParent": true,
 				"position": 

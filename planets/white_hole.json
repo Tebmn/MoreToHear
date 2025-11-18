@@ -1,17 +1,19 @@
  {
 	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
-	"name" : "WhiteholeStation",
+	"name" : "white_hole",
 	"Props": 
 	{
 		"signals": 
 		[
 			{
 				"audio": "OW_NM_BlackHole_Lp",
-				"name": "Absorption",
+				"name": "White Hole",
 				"frequency": "WarpCore",
+				
+				"volume":2,
+				"detectionRadius": 1000,
+				"identificationRadius": 500,
 
-				"parentPath": "Sector_WhiteholeStation/Interactibles_WhiteholeStation/Prefab_NOM_WarpTransmitter/Props_NOM_WarpCoreBlack",				
-				"isRelativeToParent": true,
 				"position": 
 				{
 					"x": 0,
