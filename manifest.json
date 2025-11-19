@@ -4,7 +4,7 @@
 	"author": "Tebmn",
 	"name": "More To Hear",
 	"uniqueName": "Tebmn.MoreToHear",
-	"version": "2.0.0",
+	"version": "2.1.0",
 	"owmlVersion": "2.15.1",
 	"dependencies": [ "xen.NewHorizons" ],
 	"conflicts": ["xen.SignalsPlus","Tlya.Backerssignal"]

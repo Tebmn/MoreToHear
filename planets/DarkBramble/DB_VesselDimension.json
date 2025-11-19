@@ -1,0 +1,27 @@
+ {
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "DB_VesselDimension",
+	"Props": 
+	{
+		"signals": 
+		[
+			{
+				"audio": "OW_TH_Campfire_loop_01",
+				"name": "Eye Signal",
+				"frequency": "The Vessel",
+
+				"detectionRadius": 35,
+				"identificationRadius": 5,
+				
+				"parentPath": "Sector_VesselDimension/Sector_VesselBridge/Interactibles_VesselBridge/VesselHologram_EyeSignal",
+				"isRelativeToParent": true,
+				"position": 
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			}
+		]
+	}
+}

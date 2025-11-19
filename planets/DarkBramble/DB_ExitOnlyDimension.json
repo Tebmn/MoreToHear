@@ -10,7 +10,7 @@
 				"name": "UNKNOWN2",
 				"frequency": "EGG2",
 
-				"detectionRadius": 10000,
+				"detectionRadius": 1000,
 				"identificationRadius": 0,
 				
 				"onlyAudibleToScope": false,
