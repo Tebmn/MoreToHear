@@ -18,7 +18,7 @@ Added new Signal (Eye Signal) and Frequency (The Vessel) to the Eye Signal Holog
 
 V2.0.0
 
-Modified the detection and idetification radiuses for various signals
+Modified the detection and identification radiuses for various signals
 
 Removed all "Absorption" signals
 
